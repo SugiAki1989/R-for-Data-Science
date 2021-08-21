@@ -2,7 +2,7 @@
 
 ### Rではじめるデータサイエンス 
 
-この本は[Rではじめるデータサイエンス](https://www.oreilly.co.jp/books/9784873118147/)の演習問題の回答を記載したものです。したがって、章立ては日本語版に準じています。Gitbook版は[こちら](https://wasabi.gitbook.io/r-for-data-science-answers/)。
+この本は[Rではじめるデータサイエンス](https://www.oreilly.co.jp/books/9784873118147/)の演習問題の回答を記載したものです。したがって、章立ては日本語版に準じています。
 
 Rではじめるデータサイエンスの英語版は [https://r4ds.had.co.nz](https://r4ds.had.co.nz/) より無料で閲覧が可能です。
 
