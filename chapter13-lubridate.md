@@ -73,6 +73,7 @@ today(tzone = "GMT")
 `lubridate`の関数はYear, Month, Dayの頭文字をパースしたい文字列の規則に当てはめるだけで、日付型に変換できる便利な関数が用意されています。
 
 ```text
+d1 <- "January 1, 2010"
 mdy(d1)
 [1] "2010-01-20"
 
